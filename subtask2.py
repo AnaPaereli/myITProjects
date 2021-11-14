@@ -14,3 +14,4 @@ if n==0:
 else:
     a = s/n
 print (s,a,m,n)
+# it looks like I learned how to use git today
